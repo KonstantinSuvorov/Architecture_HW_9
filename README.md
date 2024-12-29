@@ -23,4 +23,4 @@
 
 3) UML - блок-схемf алгоритма взамодействия MVP
 
-![UML](src/03.jpg)
+![OPEN API](src/openapi.yaml)
